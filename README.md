@@ -81,4 +81,11 @@
       
       ```
 
-   * All geared up for the famous [5 minute install](https://codex.wordpress.org/Installing_WordPress). 
+
+After wordpress is set up.Follow below steps:-
+
+1. Install guzzle-cli globally for making https requests.
+
+2. Create a page using template in the default themes folder.
+
+3. Write guzzle script in that page to call laravel api and display events.

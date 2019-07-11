@@ -89,3 +89,5 @@ After wordpress is set up.Follow below steps:-
 2. Create a page using template in the default themes folder.
 
 3. Write guzzle script in that page to call laravel api and display events.
+
+4. Set up virtual  host.
